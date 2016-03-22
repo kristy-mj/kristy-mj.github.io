@@ -1,8 +1,10 @@
 body {
-  background: #D8D8D8;
-  font-family: Arial;
-  color: #555;
+  font-family: Trebuchet;
+  color: #333;
   padding: 10px 20px;
+  text-align: center;
+  margin: 0;
+  background: #E2EBED;
 }
 
 h1 {
@@ -18,3 +20,13 @@ a {
   text-decoration: none;
   color: #cccc33;
 }
+
+.page-wrapper {
+  margin: 0 auto;
+  width: 500px;
+  position: relative;
+  background: #fff;
+  padding: 0 10px 20px 10px;
+  text-align: left
+}
+
