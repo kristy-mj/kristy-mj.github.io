@@ -1,0 +1,22 @@
+body {
+  font-family: didot;
+  font-color: black;
+}
+
+
+.button.button-primary {
+  font-family: Helvetica;
+  color: black;
+  float: right;
+  background: none;
+  font-weight: 300;
+  font-size: 12px;
+  border: none;
+  
+}
+
+.button.button-primary:hover {
+  background: none;
+  color: #999;
+
+}
